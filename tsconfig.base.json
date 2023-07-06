@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@nx-monorepo-test/templates": ["packages/templates/src/index.ts"],
       "@test/staat-email-tempate-builder": [
         "packages/staat-email-tempate-builder/src/index.ts"
       ]
