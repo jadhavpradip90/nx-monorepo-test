@@ -23,7 +23,7 @@ const useStyles = makeStyles({
     alignItems: 'center',
   },
   templateViewer: {
-    ...shorthands.border('2px', 'solid', '#666666'),
+    ...shorthands.border('2px', 'solid', '#C8C8C8'),
   },
   navigationButtonLeft: navigationButtonLeftStyles,
   navigationButtonRight: navigationButtonRightStyles,
